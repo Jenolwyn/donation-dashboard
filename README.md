@@ -17,9 +17,9 @@ Demo
 Live app:
 https://donation-dashboard-mjv86qaym-jenolwyn058-3314s-projects.vercel.app/
 
-Screenshots
-(Add a screenshot of your app here if desired:
-/screenshots/dashboard.png )
+Please use the below link to see the snap of the dashboard
+https://github.com/user-attachments/assets/fa8f15be-1635-4f5d-92c3-43124412bec6
+
 
 Getting Started
 To run the project locally:
