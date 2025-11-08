@@ -26,19 +26,19 @@ To run the project locally:
 
 Clone the repository:
 
-text
+
 git clone https://github.com/Jenolwyn/donation-dashboard.git
 Navigate to the project folder:
 
-text
+
 cd donation-dashboard
 Install dependencies:
 
-text
+
 npm install
 Start the app:
 
-text
+
 npm start
 Open http://localhost:3000 in your browser.
 
