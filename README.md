@@ -1,4 +1,5 @@
 Donation Tracking Dashboard
+
 A simple, modern React dashboard that visualizes donation data for nonprofit or fundraising use cases. This project is developed for an internship assignment.
 
 Features
